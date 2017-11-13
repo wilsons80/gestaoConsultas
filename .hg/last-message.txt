@@ -1,0 +1,1 @@
+*) Correção no arquivo POM.xml na tag de plugins
